@@ -1,6 +1,8 @@
 weg-preprocessor-extlang
 ===========================
 
+weg 已经内置该插件, 不需要单独安装。
+
 An fis preproccessor plugin for parse swig custom tags.
 
 支持使用Swig script, style 插件的JavaScript的语言扩展
